@@ -1,1 +1,3 @@
 denemeler
+git commit -m "Initial Commit"
+
